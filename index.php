@@ -1,3 +1,3 @@
 <?php
-print "Modificacion index.php";
+print "Modificacion index.php Main";
 ?>
