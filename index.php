@@ -1,3 +1,3 @@
 <?php
-print "Modificacion index.php en rama Main";
+print "Salida print";
 ?>
