@@ -1,3 +1,3 @@
 <?php
-print "Modificacion en la rama Conflictos";
+print "Modificacion en el print de la rama Conflictos";
 ?>
